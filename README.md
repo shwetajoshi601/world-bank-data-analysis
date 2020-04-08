@@ -7,4 +7,4 @@ The World Bank data consists of demographic and other statistical data related t
 
 * The data has been first pre-processed and cleaned.
 * The cleaned data has been stored into different CSV files. For convenience, the repository contains the CSV files with the cleaned data.
-* All the pre-processing and analysis steps have been written in a single [Jupyter Notebook]()
+* All the pre-processing and analysis steps have been written in a single [Jupyter Notebook](https://github.com/shwetajoshi601/world-bank-data-analysis/blob/master/world-bank-data-eda.ipynb)
