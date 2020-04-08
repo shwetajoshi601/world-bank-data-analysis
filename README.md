@@ -1,5 +1,4 @@
-# world-bank-data-analysis
-An Exploratory Data Analysis on the World Bank Dataset.
+# Exploratory Data Analysis on the World Bank Dataset.
 
 The main objective of this project is to perform an Exploratory Data Analysis on the World Bank Dataset available through open [Web APIs](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation).
 
